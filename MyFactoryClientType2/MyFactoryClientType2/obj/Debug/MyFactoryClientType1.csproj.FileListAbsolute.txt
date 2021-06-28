@@ -1,0 +1,16 @@
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\MyFactoryClientType1.exe.config
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\MyFactoryClientType1.exe
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\MyFactoryClientType1.pdb
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\Dapper.dll
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\DapperExtensions.dll
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\Dapper.xml
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\DapperExtensions.pdb
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\bin\Debug\Newtonsoft.Json.xml
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.Properties.Resources.resources
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.csproj.GenerateResource.cache
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.csproj.CoreCompileInputs.cache
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.csproj.CopyComplete
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.exe
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.pdb
+C:\Users\KTN63915\source\repos\MyVirtualFactoryOdev\MyFactoryClientType1\MyFactoryClientType1Win\obj\Debug\MyFactoryClientType1.FormMyFactoryClientType1.resources
